@@ -1,0 +1,23 @@
+html {
+  background-color: aquamarine;
+  padding: 15px 15px;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  background-color: white;
+  text-align: center;
+  padding: 10px 10px;
+}
+
+.green {
+  border: 2px solid green;
+  padding: 3px 3px;
+  border-radius: 20px;
+}
+
+#border {
+  border: 2px solid orange;
+}
